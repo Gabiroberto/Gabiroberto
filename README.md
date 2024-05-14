@@ -1,16 +1,17 @@
-### Hi there 👋
+### OIE ❤️
+Meu nome e Gabriela 
 
-<!--
-**Gabiroberto/Gabiroberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estou estudando no alura 
 
-Here are some ideas to get you started:
+-EStou me desenvolvendo na linguagem javascript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-utilizo esse espaco para minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
+
+
+
+### Voce pode entrar em contato comigo ❤️
+
+@Gabiroberto 
+
+
+![](https://media.tenor.com/xEf4j9pnMywAAAAM/dog-dogs.gif)
